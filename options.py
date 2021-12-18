@@ -1,5 +1,5 @@
 encryption_options = [
     'Caesar',
     'Rail Fence',
-    'etc...'
+    'Polybius Square'
 ]
